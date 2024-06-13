@@ -1,3 +1,8 @@
+/*
+* Author: Danny Gazic (DannysBlazingBonfire)
+* 2024-06-13
+*/
+
 #ifndef STATUS_LED_CONTROLLER_H
 #define STATUS_LED_CONTROLLER_H
 

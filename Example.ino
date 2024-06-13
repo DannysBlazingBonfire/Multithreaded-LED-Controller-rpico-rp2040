@@ -1,3 +1,8 @@
+/*
+* Author: Danny Gazic (DannysBlazingBonfire)
+* 2024-06-13
+*/
+
 #include "StatusLEDController.h"
 
 #include "pico/mutex.h"
